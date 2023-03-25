@@ -1,0 +1,15 @@
+
+body {
+        background-image: url("https://w0.peakpx.com/wallpaper/254/403/HD-wallpaper-thiruvalluvar-tamil-thirukural.jpg");
+        background-size: cover;
+      }
+      
+    
+.container {
+    background-color: #F7F7F7;
+    padding: 20px;
+    }
+
+#result {
+    display: none;
+}
